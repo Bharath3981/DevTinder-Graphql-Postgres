@@ -1,1 +1,0 @@
-# DevTinder-Graphql-Postgres
